@@ -1,17 +1,23 @@
 # TaskListAngular
-Task list with Angular.
 
-## Lista de Tarefas criada em Angular
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 
 
-Para rodar está aplicação será necessário
-> Instalar o nodejs em sua máquina (link: https://nodejs.org/en/download/)
+##For to view project in production.
 
-> Instalar o AngularCLI (Digite em seu prompt: "npm install -g @angular/cli")
+> https://silasprd.github.io/TaskListAngular/
 
-> Crie um novo projeto com "ng new todo"
+##Development server
 
-> Copie a pasta src presente neste repositório e substitua pela pasta atual do seu projeto angular criado
+> Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-> Execute o comando "ng serve -o" e a página será aberta.
+## Code scaffolding
 
-Dicas e sugestões serão sempre bem vindas.
+> Run `ng generate component component-name` to generate a new component.
+
+## Build
+
+> Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
